@@ -1,0 +1,32 @@
+srcdir = '.'
+blddir = 'build'
+VERSION = '0.0.1'
+
+def set_options(opt):
+  opt.tool_options('compiler_cxx')
+
+def configure(conf):
+  conf.check_tool('compiler_cxx')
+  conf.check_tool('node_addon')
+  conf.env['CXX']       = 'g++-4.6'
+  conf.env['CXXFLAGS']  = '-std=c++0x'
+
+  conf.check_cfg(path = './julius-4.2.1/libjulius/libjulius-config',
+	  args = '--cflags --libs',
+	  package = '',
+	  uselib_store='LIBJULIUS',
+	  mandatory=True)
+  conf.check_cfg(path = './julius-4.2.1/libsent/libsent-config',
+	  args = '--cflags --libs',
+	  package = '',
+	  uselib_store='LIBSENT',
+	  mandatory=True)
+
+def build(bld):
+  obj = bld.new_task_gen('cxx', 'shlib', 'node_addon')
+  obj.target = 'julius'
+  obj.source = 'export_to_nodejs.cpp julius.cpp'
+  obj.includes = '. ./julius-4.2.1/libjulius/include ./julius-4.2.1/libsent/include'
+  obj.libpath = ['/home/hecomi/Program/cpp/node/HAS/node_addon/julius/julius-4.2.1/libjulius', '/home/hecomi/Program/cpp/node/HAS/node_addon/julius/julius-4.2.1/libsent']
+  obj.uselib = ['LIBJULIUS', 'LIBSENT']
+

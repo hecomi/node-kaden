@@ -1,0 +1,61 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:551: checking host system type
+configure:572: checking host-specific optimization flag
+configure:587: checking for gcc
+configure:700: checking whether the C compiler (gcc -O6 -fomit-frame-pointer ) works
+configure:716: gcc -o conftest -O6 -fomit-frame-pointer   conftest.c  1>&5
+configure:742: checking whether the C compiler (gcc -O6 -fomit-frame-pointer ) is a cross-compiler
+configure:747: checking whether we are using GNU C
+configure:756: gcc -E conftest.c
+configure:775: checking whether gcc accepts -g
+configure:807: checking how to run the C preprocessor
+configure:828: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:898: checking for a BSD compatible install
+configure:951: checking for Cygwin environment
+configure:967: gcc -c -O6 -fomit-frame-pointer  conftest.c 1>&5
+configure: In function 'main':
+configure:963: error: '__CYGWIN32__' undeclared (first use in this function)
+configure:963: error: (Each undeclared identifier is reported only once
+configure:963: error: for each function it appears in.)
+configure: failed program was:
+#line 956 "configure"
+#include "confdefs.h"
+
+int main() {
+
+#ifndef __CYGWIN__
+#define __CYGWIN__ __CYGWIN32__
+#endif
+return __CYGWIN__;
+; return 0; }
+configure:984: checking for mingw32 environment
+configure:996: gcc -c -O6 -fomit-frame-pointer  conftest.c 1>&5
+configure: In function 'main':
+configure:992: error: '__MINGW32__' undeclared (first use in this function)
+configure:992: error: (Each undeclared identifier is reported only once
+configure:992: error: for each function it appears in.)
+configure: failed program was:
+#line 989 "configure"
+#include "confdefs.h"
+
+int main() {
+return __MINGW32__;
+; return 0; }
+configure:1015: checking for executable suffix
+configure:1025: gcc -o conftest -O6 -fomit-frame-pointer   conftest.c  1>&5
+configure:1047: checking host specific optimization flag
+configure:1063: checking for rm
+configure:1098: checking for perl
+configure:1135: checking for yywrap in -lfl
+configure:1154: gcc -o conftest -O6 -fomit-frame-pointer   conftest.c -lfl   1>&5
+configure:1185: checking for iconv
+configure:1221: checking for Jcode module in perl
+configure:1232: checking for readline/readline.h
+configure:1242: gcc -E  conftest.c >/dev/null 2>conftest.out
+configure:1259: checking for readline in -lreadline
+configure:1278: gcc -o conftest -O6 -fomit-frame-pointer   conftest.c -lreadline  -lfl  1>&5
+configure:1366: checking for readline verion > 4.1
+configure:1394: checking for malloc.h
+configure:1404: gcc -E  conftest.c >/dev/null 2>conftest.out

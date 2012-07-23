@@ -1,0 +1,8 @@
+data/
+*.o
+.lock-wscript
+oll.js
+.deps
+twitter.oauth.js
+data/mei_normal
+
