@@ -1,8 +1,9 @@
-data/
 *.o
 .lock-wscript
 oll.js
 .deps
 twitter.oauth.js
 data/mei_normal
+data/model
+data/open_jtalk_dic_utf_8-1.05
 

@@ -1,0 +1,1005 @@
+0	[<s>]	silB
+1	[<s>]	silE
+2	[<sp>]	sp
+3	[ただいま]	t a d a i m a
+4	[テレビ]	t e r e b i
+5	[を]	w o
+6	[つけて]	ts u k e t e
+7	[消して]	k e sh i t e
+8	[テレビ]	t e r e b i
+9	[を]	w o
+10	[切替]	k i r i k a e
+11	[テレビ]	t e r e b i
+12	[を]	w o
+13	[次]	ts u g i
+14	[テレビ]	t e r e b i
+15	[を]	w o
+16	[前]	m a e
+17	[電気]	d e N k i
+18	[を]	w o
+19	[つけて]	ts u k e t e
+20	[電気]	d e N k i
+21	[を]	w o
+22	[こだま]	k o d a m a
+23	[電気]	d e N k i
+24	[を]	w o
+25	[消して]	k e sh i t e
+26	[モニタ]	m o n i t a
+27	[を]	w o
+28	[つけて]	ts u k e t e
+29	[モニタ]	m o n i t a
+30	[を]	w o
+31	[消して]	k e sh i t e
+32	[今何時]	i m a n a N j i
+33	[今日]	ky o:
+34	[は]	w a
+35	[いつ]	i ts u
+36	[何日]	n a N n i ch i
+37	[ああ]	a:
+37	[あい]	a i
+37	[あう]	a u
+37	[あえ]	a e
+37	[あお]	a o
+37	[あか]	a k a
+37	[あき]	a k i
+37	[あく]	a k u
+37	[あけ]	a k e
+37	[あこ]	a k o
+37	[あさ]	a s a
+37	[あし]	a sh i
+37	[あす]	a s u
+37	[あせ]	a s e
+37	[あた]	a t a
+37	[あち]	a ch i
+37	[あつ]	a ts u
+37	[あて]	a t e
+37	[あと]	a t o
+37	[あな]	a n a
+37	[あに]	a n i
+37	[あぬ]	a n u
+37	[あね]	a n e
+37	[あの]	a n o
+37	[あは]	a w a
+37	[あひ]	a h i
+37	[あふ]	a f u
+37	[あへ]	a e
+37	[あほ]	a h o
+37	[あま]	a m a
+37	[あみ]	a m i
+37	[あめ]	a m e
+37	[あも]	a m o
+37	[あや]	a y a
+37	[あゆ]	a y u
+37	[あよ]	a y o
+37	[あら]	a r a
+37	[あり]	a r i
+37	[ある]	a r u
+37	[あれ]	a r e
+37	[あろ]	a r o
+37	[あわ]	a w a
+37	[あを]	a w o
+37	[あん]	a N
+37	[うあ]	u a
+37	[うい]	u i
+37	[うう]	u:
+37	[うえ]	u e
+37	[うお]	u o
+37	[うか]	u k a
+37	[うき]	u k i
+37	[うく]	u k u
+37	[うけ]	u k e
+37	[うこ]	u k o
+37	[うさ]	u s a
+37	[うし]	u sh i
+37	[うす]	u s u
+37	[うせ]	u s e
+37	[うた]	u t a
+37	[うち]	u ch i
+37	[うつ]	u ts u
+37	[うて]	u t e
+37	[うと]	u t o
+37	[うな]	u n a
+37	[うに]	u n i
+37	[うぬ]	u n u
+37	[うね]	u n e
+37	[うの]	u n o
+37	[うは]	u w a
+37	[うひ]	u h i
+37	[うふ]	u f u
+37	[うへ]	u e
+37	[うほ]	u h o
+37	[うま]	u m a
+37	[うみ]	u m i
+37	[うめ]	u m e
+37	[うも]	u m o
+37	[うや]	u y a
+37	[うゆ]	u y u
+37	[うよ]	u y o
+37	[うら]	u r a
+37	[うり]	u r i
+37	[うる]	u r u
+37	[うれ]	u r e
+37	[うろ]	u r o
+37	[うわ]	u w a
+37	[うを]	u w o
+37	[うん]	u N
+37	[おあ]	o a
+37	[おい]	o i
+37	[おう]	o u
+37	[おえ]	o e
+37	[おお]	o:
+37	[おか]	o k a
+37	[おき]	o k i
+37	[おく]	o k u
+37	[おけ]	o k e
+37	[おこ]	o k o
+37	[おさ]	o s a
+37	[おし]	o sh i
+37	[おす]	o s u
+37	[おせ]	o s e
+37	[おた]	o t a
+37	[おち]	o ch i
+37	[おつ]	o ts u
+37	[おて]	o t e
+37	[おと]	o t o
+37	[おな]	o n a
+37	[おに]	o n i
+37	[おぬ]	o n u
+37	[おね]	o n e
+37	[おの]	o n o
+37	[おは]	o w a
+37	[おひ]	o h i
+37	[おふ]	o f u
+37	[おへ]	o e
+37	[おほ]	o h o
+37	[おま]	o m a
+37	[おみ]	o m i
+37	[おめ]	o m e
+37	[おも]	o m o
+37	[おや]	o y a
+37	[おゆ]	o y u
+37	[およ]	o y o
+37	[おら]	o r a
+37	[おり]	o r i
+37	[おる]	o r u
+37	[おれ]	o r e
+37	[おろ]	o r o
+37	[おわ]	o w a
+37	[おを]	o w o
+37	[おん]	o N
+37	[きあ]	k i a
+37	[きい]	k i i
+37	[きう]	k i u
+37	[きえ]	k i e
+37	[きお]	k i o
+37	[きか]	k i k a
+37	[きき]	k i k i
+37	[きく]	k i k u
+37	[きけ]	k i k e
+37	[きこ]	k i k o
+37	[きさ]	k i s a
+37	[きし]	k i sh i
+37	[きす]	k i s u
+37	[きせ]	k i s e
+37	[きた]	k i t a
+37	[きち]	k i ch i
+37	[きつ]	k i ts u
+37	[きて]	k i t e
+37	[きと]	k i t o
+37	[きな]	k i n a
+37	[きに]	k i n i
+37	[きぬ]	k i n u
+37	[きね]	k i n e
+37	[きの]	k i n o
+37	[きは]	k i w a
+37	[きひ]	k i h i
+37	[きふ]	k i f u
+37	[きへ]	k i e
+37	[きほ]	k i h o
+37	[きま]	k i m a
+37	[きみ]	k i m i
+37	[きめ]	k i m e
+37	[きも]	k i m o
+37	[きや]	k i y a
+37	[きゆ]	k i y u
+37	[きよ]	k i y o
+37	[きら]	k i r a
+37	[きり]	k i r i
+37	[きる]	k i r u
+37	[きれ]	k i r e
+37	[きろ]	k i r o
+37	[きわ]	k i w a
+37	[きを]	k i w o
+37	[きん]	k i N
+37	[けあ]	k e a
+37	[けい]	k e i
+37	[けう]	k e u
+37	[けえ]	k e e
+37	[けお]	k e o
+37	[けか]	k e k a
+37	[けき]	k e k i
+37	[けく]	k e k u
+37	[けけ]	k e k e
+37	[けこ]	k e k o
+37	[けさ]	k e s a
+37	[けし]	k e sh i
+37	[けす]	k e s u
+37	[けせ]	k e s e
+37	[けた]	k e t a
+37	[けち]	k e ch i
+37	[けつ]	k e ts u
+37	[けて]	k e t e
+37	[けと]	k e t o
+37	[けな]	k e n a
+37	[けに]	k e n i
+37	[けぬ]	k e n u
+37	[けね]	k e n e
+37	[けの]	k e n o
+37	[けは]	k e w a
+37	[けひ]	k e h i
+37	[けふ]	k e f u
+37	[けへ]	k e e
+37	[けほ]	k e h o
+37	[けま]	k e m a
+37	[けみ]	k e m i
+37	[けめ]	k e m e
+37	[けも]	k e m o
+37	[けや]	k e y a
+37	[けゆ]	k e y u
+37	[けよ]	k e y o
+37	[けら]	k e r a
+37	[けり]	k e r i
+37	[ける]	k e r u
+37	[けれ]	k e r e
+37	[けろ]	k e r o
+37	[けわ]	k e w a
+37	[けを]	k e w o
+37	[けん]	k e N
+37	[さあ]	s a:
+37	[さい]	s a i
+37	[さう]	s a u
+37	[さえ]	s a e
+37	[さお]	s a o
+37	[さか]	s a k a
+37	[さき]	s a k i
+37	[さく]	s a k u
+37	[さけ]	s a k e
+37	[さこ]	s a k o
+37	[ささ]	s a s a
+37	[さし]	s a sh i
+37	[さす]	s a s u
+37	[させ]	s a s e
+37	[さた]	s a t a
+37	[さち]	s a ch i
+37	[さつ]	s a ts u
+37	[さて]	s a t e
+37	[さと]	s a t o
+37	[さな]	s a n a
+37	[さに]	s a n i
+37	[さぬ]	s a n u
+37	[さね]	s a n e
+37	[さの]	s a n o
+37	[さは]	s a w a
+37	[さひ]	s a h i
+37	[さふ]	s a f u
+37	[さへ]	s a e
+37	[さほ]	s a h o
+37	[さま]	s a m a
+37	[さみ]	s a m i
+37	[さめ]	s a m e
+37	[さも]	s a m o
+37	[さや]	s a y a
+37	[さゆ]	s a y u
+37	[さよ]	s a y o
+37	[さら]	s a r a
+37	[さり]	s a r i
+37	[さる]	s a r u
+37	[され]	s a r e
+37	[さろ]	s a r o
+37	[さわ]	s a w a
+37	[さを]	s a w o
+37	[さん]	s a N
+37	[すあ]	s u a
+37	[すい]	s u i
+37	[すう]	s u:
+37	[すえ]	s u e
+37	[すお]	s u o
+37	[すか]	s u k a
+37	[すき]	s u k i
+37	[すく]	s u k u
+37	[すけ]	s u k e
+37	[すこ]	s u k o
+37	[すさ]	s u s a
+37	[すし]	s u sh i
+37	[すす]	s u s u
+37	[すせ]	s u s e
+37	[すた]	s u t a
+37	[すち]	s u ch i
+37	[すつ]	s u ts u
+37	[すて]	s u t e
+37	[すと]	s u t o
+37	[すな]	s u n a
+37	[すに]	s u n i
+37	[すぬ]	s u n u
+37	[すね]	s u n e
+37	[すの]	s u n o
+37	[すは]	s u w a
+37	[すひ]	s u h i
+37	[すふ]	s u f u
+37	[すへ]	s u e
+37	[すほ]	s u h o
+37	[すま]	s u m a
+37	[すみ]	s u m i
+37	[すめ]	s u m e
+37	[すも]	s u m o
+37	[すや]	s u y a
+37	[すゆ]	s u y u
+37	[すよ]	s u y o
+37	[すら]	s u r a
+37	[すり]	s u r i
+37	[する]	s u r u
+37	[すれ]	s u r e
+37	[すろ]	s u r o
+37	[すわ]	s u w a
+37	[すを]	s u w o
+37	[すん]	s u N
+37	[たあ]	t a a
+37	[たい]	t a i
+37	[たう]	t a u
+37	[たえ]	t a e
+37	[たお]	t a o
+37	[たか]	t a k a
+37	[たき]	t a k i
+37	[たく]	t a k u
+37	[たけ]	t a k e
+37	[たこ]	t a k o
+37	[たさ]	t a s a
+37	[たし]	t a sh i
+37	[たす]	t a s u
+37	[たせ]	t a s e
+37	[たた]	t a t a
+37	[たち]	t a ch i
+37	[たつ]	t a ts u
+37	[たて]	t a t e
+37	[たと]	t a t o
+37	[たな]	t a n a
+37	[たに]	t a n i
+37	[たぬ]	t a n u
+37	[たね]	t a n e
+37	[たの]	t a n o
+37	[たは]	t a w a
+37	[たひ]	t a h i
+37	[たふ]	t a f u
+37	[たへ]	t a e
+37	[たほ]	t a h o
+37	[たま]	t a m a
+37	[たみ]	t a m i
+37	[ため]	t a m e
+37	[たも]	t a m o
+37	[たや]	t a y a
+37	[たゆ]	t a y u
+37	[たよ]	t a y o
+37	[たら]	t a r a
+37	[たり]	t a r i
+37	[たる]	t a r u
+37	[たれ]	t a r e
+37	[たろ]	t a r o
+37	[たわ]	t a w a
+37	[たを]	t a w o
+37	[たん]	t a N
+37	[つあ]	ts u a
+37	[つい]	ts u i
+37	[つう]	ts u:
+37	[つえ]	ts u e
+37	[つお]	ts u o
+37	[つか]	ts u k a
+37	[つき]	ts u k i
+37	[つく]	ts u k u
+37	[つけ]	ts u k e
+37	[つこ]	ts u k o
+37	[つさ]	ts u s a
+37	[つし]	ts u sh i
+37	[つす]	ts u s u
+37	[つせ]	ts u s e
+37	[つた]	ts u t a
+37	[つち]	ts u ch i
+37	[つつ]	ts u ts u
+37	[つて]	ts u t e
+37	[つと]	ts u t o
+37	[つな]	ts u n a
+37	[つに]	ts u n i
+37	[つぬ]	ts u n u
+37	[つね]	ts u n e
+37	[つの]	ts u n o
+37	[つは]	ts u w a
+37	[つひ]	ts u h i
+37	[つふ]	ts u f u
+37	[つへ]	ts u e
+37	[つほ]	ts u h o
+37	[つま]	ts u m a
+37	[つみ]	ts u m i
+37	[つめ]	ts u m e
+37	[つも]	ts u m o
+37	[つや]	ts u y a
+37	[つゆ]	ts u y u
+37	[つよ]	ts u y o
+37	[つら]	ts u r a
+37	[つり]	ts u r i
+37	[つる]	ts u r u
+37	[つれ]	ts u r e
+37	[つろ]	ts u r o
+37	[つわ]	ts u w a
+37	[つを]	ts u w o
+37	[つん]	ts u N
+37	[とあ]	t o a
+37	[とい]	t o i
+37	[とう]	t o:
+37	[とえ]	t o e
+37	[とお]	t o:
+37	[とか]	t o k a
+37	[とき]	t o k i
+37	[とく]	t o k u
+37	[とけ]	t o k e
+37	[とこ]	t o k o
+37	[とさ]	t o s a
+37	[とし]	t o sh i
+37	[とす]	t o s u
+37	[とせ]	t o s e
+37	[とた]	t o t a
+37	[とち]	t o ch i
+37	[とつ]	t o ts u
+37	[とて]	t o t e
+37	[とと]	t o t o
+37	[とな]	t o n a
+37	[とに]	t o n i
+37	[とぬ]	t o n u
+37	[とね]	t o n e
+37	[との]	t o n o
+37	[とは]	t o w a
+37	[とひ]	t o h i
+37	[とふ]	t o f u
+37	[とへ]	t o e
+37	[とほ]	t o h o
+37	[とま]	t o m a
+37	[とみ]	t o m i
+37	[とめ]	t o m e
+37	[とも]	t o m o
+37	[とや]	t o y a
+37	[とゆ]	t o y u
+37	[とよ]	t o y o
+37	[とら]	t o r a
+37	[とり]	t o r i
+37	[とる]	t o r u
+37	[とれ]	t o r e
+37	[とろ]	t o r o
+37	[とわ]	t o w a
+37	[とを]	t o w o
+37	[とん]	t o N
+37	[にあ]	n i a
+37	[にい]	n i i
+37	[にう]	n i u
+37	[にえ]	n i e
+37	[にお]	n i o
+37	[にか]	n i k a
+37	[にき]	n i k i
+37	[にく]	n i k u
+37	[にけ]	n i k e
+37	[にこ]	n i k o
+37	[にさ]	n i s a
+37	[にし]	n i sh i
+37	[にす]	n i s u
+37	[にせ]	n i s e
+37	[にた]	n i t a
+37	[にち]	n i ch i
+37	[につ]	n i ts u
+37	[にて]	n i t e
+37	[にと]	n i t o
+37	[にな]	n i n a
+37	[にに]	n i n i
+37	[にぬ]	n i n u
+37	[にね]	n i n e
+37	[にの]	n i n o
+37	[には]	n i w a
+37	[にひ]	n i h i
+37	[にふ]	n i f u
+37	[にへ]	n i e
+37	[にほ]	n i h o
+37	[にま]	n i m a
+37	[にみ]	n i m i
+37	[にめ]	n i m e
+37	[にも]	n i m o
+37	[にや]	n i y a
+37	[にゆ]	n i y u
+37	[によ]	n i y o
+37	[にら]	n i r a
+37	[にり]	n i r i
+37	[にる]	n i r u
+37	[にれ]	n i r e
+37	[にろ]	n i r o
+37	[にわ]	n i w a
+37	[にを]	n i w o
+37	[にん]	n i N
+37	[ねあ]	n e a
+37	[ねい]	n e i
+37	[ねう]	n e u
+37	[ねえ]	n e:
+37	[ねお]	n e o
+37	[ねか]	n e k a
+37	[ねき]	n e k i
+37	[ねく]	n e k u
+37	[ねけ]	n e k e
+37	[ねこ]	n e k o
+37	[ねさ]	n e s a
+37	[ねし]	n e sh i
+37	[ねす]	n e s u
+37	[ねせ]	n e s e
+37	[ねた]	n e t a
+37	[ねち]	n e ch i
+37	[ねつ]	n e ts u
+37	[ねて]	n e t e
+37	[ねと]	n e t o
+37	[ねな]	n e n a
+37	[ねに]	n e n i
+37	[ねぬ]	n e n u
+37	[ねね]	n e n e
+37	[ねの]	n e n o
+37	[ねは]	n e w a
+37	[ねひ]	n e h i
+37	[ねふ]	n e f u
+37	[ねへ]	n e e
+37	[ねほ]	n e h o
+37	[ねま]	n e m a
+37	[ねみ]	n e m i
+37	[ねめ]	n e m e
+37	[ねも]	n e m o
+37	[ねや]	n e y a
+37	[ねゆ]	n e y u
+37	[ねよ]	n e y o
+37	[ねら]	n e r a
+37	[ねり]	n e r i
+37	[ねる]	n e r u
+37	[ねれ]	n e r e
+37	[ねろ]	n e r o
+37	[ねわ]	n e w a
+37	[ねを]	n e w o
+37	[ねん]	n e N
+37	[はあ]	h a:
+37	[はい]	h a i
+37	[はう]	h a u
+37	[はえ]	w a e
+37	[はお]	h a o
+37	[はか]	h a k a
+37	[はき]	h a k i
+37	[はく]	h a k u
+37	[はけ]	h a k e
+37	[はこ]	h a k o
+37	[はさ]	h a s a
+37	[はし]	h a sh i
+37	[はす]	h a s u
+37	[はせ]	h a s e
+37	[はた]	h a t a
+37	[はち]	w a ch i
+37	[はつ]	h a ts u
+37	[はて]	h a t e
+37	[はと]	h a t o
+37	[はな]	h a n a
+37	[はに]	h a n i
+37	[はぬ]	w a n u
+37	[はね]	w a n e
+37	[はの]	w a n o
+37	[はは]	w a w a
+37	[はひ]	w a h i
+37	[はふ]	w a f u
+37	[はへ]	h a e
+37	[はほ]	w a h o
+37	[はま]	h a m a
+37	[はみ]	h a m i
+37	[はめ]	h a m e
+37	[はも]	w a m o
+37	[はや]	h a y a
+37	[はゆ]	w a y u
+37	[はよ]	w a y o
+37	[はら]	h a r a
+37	[はり]	h a r i
+37	[はる]	h a r u
+37	[はれ]	h a r e
+37	[はろ]	h a r o
+37	[はわ]	w a w a
+37	[はを]	h a w o
+37	[はん]	h a N
+37	[ふあ]	f u a
+37	[ふい]	f u i
+37	[ふう]	f u:
+37	[ふえ]	f u e
+37	[ふお]	f u o
+37	[ふか]	f u k a
+37	[ふき]	f u k i
+37	[ふく]	f u k u
+37	[ふけ]	f u k e
+37	[ふこ]	f u k o
+37	[ふさ]	f u s a
+37	[ふし]	f u sh i
+37	[ふす]	f u s u
+37	[ふせ]	f u s e
+37	[ふた]	f u t a
+37	[ふち]	f u ch i
+37	[ふつ]	f u ts u
+37	[ふて]	f u t e
+37	[ふと]	f u t o
+37	[ふな]	f u n a
+37	[ふに]	f u n i
+37	[ふぬ]	f u n u
+37	[ふね]	f u n e
+37	[ふの]	f u n o
+37	[ふは]	f u w a
+37	[ふひ]	f u h i
+37	[ふふ]	f u f u
+37	[ふへ]	f u e
+37	[ふほ]	f u h o
+37	[ふま]	f u m a
+37	[ふみ]	f u m i
+37	[ふめ]	f u m e
+37	[ふも]	f u m o
+37	[ふや]	f u y a
+37	[ふゆ]	f u y u
+37	[ふよ]	f u y o
+37	[ふら]	f u r a
+37	[ふり]	f u r i
+37	[ふる]	f u r u
+37	[ふれ]	f u r e
+37	[ふろ]	f u r o
+37	[ふわ]	f u w a
+37	[ふを]	f u w o
+37	[ふん]	f u N
+37	[ほあ]	h o a
+37	[ほい]	h o i
+37	[ほう]	h o:
+37	[ほえ]	h o e
+37	[ほお]	h o:
+37	[ほか]	h o k a
+37	[ほき]	h o k i
+37	[ほく]	h o k u
+37	[ほけ]	h o k e
+37	[ほこ]	h o k o
+37	[ほさ]	h o s a
+37	[ほし]	h o sh i
+37	[ほす]	h o s u
+37	[ほせ]	h o s e
+37	[ほた]	h o t a
+37	[ほち]	h o ch i
+37	[ほつ]	h o ts u
+37	[ほて]	h o t e
+37	[ほと]	h o t o
+37	[ほな]	h o n a
+37	[ほに]	h o n i
+37	[ほぬ]	h o n u
+37	[ほね]	h o n e
+37	[ほの]	h o n o
+37	[ほは]	h o w a
+37	[ほひ]	h o h i
+37	[ほふ]	h o f u
+37	[ほへ]	h o e
+37	[ほほ]	h o h o
+37	[ほま]	h o m a
+37	[ほみ]	h o m i
+37	[ほめ]	h o m e
+37	[ほも]	h o m o
+37	[ほや]	h o y a
+37	[ほゆ]	h o y u
+37	[ほよ]	h o y o
+37	[ほら]	h o r a
+37	[ほり]	h o r i
+37	[ほる]	h o r u
+37	[ほれ]	h o r e
+37	[ほろ]	h o r o
+37	[ほわ]	h o w a
+37	[ほを]	h o w o
+37	[ほん]	h o N
+37	[みあ]	m i a
+37	[みい]	m i i
+37	[みう]	m i u
+37	[みえ]	m i e
+37	[みお]	m i o
+37	[みか]	m i k a
+37	[みき]	m i k i
+37	[みく]	m i k u
+37	[みけ]	m i k e
+37	[みこ]	m i k o
+37	[みさ]	m i s a
+37	[みし]	m i sh i
+37	[みす]	m i s u
+37	[みせ]	m i s e
+37	[みた]	m i t a
+37	[みち]	m i ch i
+37	[みつ]	m i ts u
+37	[みて]	m i t e
+37	[みと]	m i t o
+37	[みな]	m i n a
+37	[みに]	m i n i
+37	[みぬ]	m i n u
+37	[みね]	m i n e
+37	[みの]	m i n o
+37	[みは]	m i w a
+37	[みひ]	m i h i
+37	[みふ]	m i f u
+37	[みへ]	m i e
+37	[みほ]	m i h o
+37	[みま]	m i m a
+37	[みみ]	m i m i
+37	[みめ]	m i m e
+37	[みも]	m i m o
+37	[みや]	m i y a
+37	[みゆ]	m i y u
+37	[みよ]	m i y o
+37	[みら]	m i r a
+37	[みり]	m i r i
+37	[みる]	m i r u
+37	[みれ]	m i r e
+37	[みろ]	m i r o
+37	[みわ]	m i w a
+37	[みを]	m i w o
+37	[みん]	m i N
+37	[もあ]	m o a
+37	[もい]	m o i
+37	[もう]	m o:
+37	[もえ]	m o e
+37	[もお]	m o o
+37	[もか]	m o k a
+37	[もき]	m o k i
+37	[もく]	m o k u
+37	[もけ]	m o k e
+37	[もこ]	m o k o
+37	[もさ]	m o s a
+37	[もし]	m o sh i
+37	[もす]	m o s u
+37	[もせ]	m o s e
+37	[もた]	m o t a
+37	[もち]	m o ch i
+37	[もつ]	m o ts u
+37	[もて]	m o t e
+37	[もと]	m o t o
+37	[もな]	m o n a
+37	[もに]	m o n i
+37	[もぬ]	m o n u
+37	[もね]	m o n e
+37	[もの]	m o n o
+37	[もは]	m o w a
+37	[もひ]	m o h i
+37	[もふ]	m o f u
+37	[もへ]	m o e
+37	[もほ]	m o h o
+37	[もま]	m o m a
+37	[もみ]	m o m i
+37	[もめ]	m o m e
+37	[もも]	m o m o
+37	[もや]	m o y a
+37	[もゆ]	m o y u
+37	[もよ]	m o y o
+37	[もら]	m o r a
+37	[もり]	m o r i
+37	[もる]	m o r u
+37	[もれ]	m o r e
+37	[もろ]	m o r o
+37	[もわ]	m o w a
+37	[もを]	m o w o
+37	[もん]	m o N
+37	[ゆあ]	y u a
+37	[ゆい]	y u i
+37	[ゆう]	y u:
+37	[ゆえ]	y u e
+37	[ゆお]	y u o
+37	[ゆか]	y u k a
+37	[ゆき]	y u k i
+37	[ゆく]	y u k u
+37	[ゆけ]	y u k e
+37	[ゆこ]	y u k o
+37	[ゆさ]	y u s a
+37	[ゆし]	y u sh i
+37	[ゆす]	y u s u
+37	[ゆせ]	y u s e
+37	[ゆた]	y u t a
+37	[ゆち]	y u ch i
+37	[ゆつ]	y u ts u
+37	[ゆて]	y u t e
+37	[ゆと]	y u t o
+37	[ゆな]	y u n a
+37	[ゆに]	y u n i
+37	[ゆぬ]	y u n u
+37	[ゆね]	y u n e
+37	[ゆの]	y u n o
+37	[ゆは]	y u w a
+37	[ゆひ]	y u h i
+37	[ゆふ]	y u f u
+37	[ゆへ]	y u e
+37	[ゆほ]	y u h o
+37	[ゆま]	y u m a
+37	[ゆみ]	y u m i
+37	[ゆめ]	y u m e
+37	[ゆも]	y u m o
+37	[ゆや]	y u y a
+37	[ゆゆ]	y u y u
+37	[ゆよ]	y u y o
+37	[ゆら]	y u r a
+37	[ゆり]	y u r i
+37	[ゆる]	y u r u
+37	[ゆれ]	y u r e
+37	[ゆろ]	y u r o
+37	[ゆわ]	y u w a
+37	[ゆを]	y u w o
+37	[ゆん]	y u N
+37	[らあ]	r a a
+37	[らい]	r a i
+37	[らう]	r a u
+37	[らえ]	r a e
+37	[らお]	r a o
+37	[らか]	r a k a
+37	[らき]	r a k i
+37	[らく]	r a k u
+37	[らけ]	r a k e
+37	[らこ]	r a k o
+37	[らさ]	r a s a
+37	[らし]	r a sh i
+37	[らす]	r a s u
+37	[らせ]	r a s e
+37	[らた]	r a t a
+37	[らち]	r a ch i
+37	[らつ]	r a ts u
+37	[らて]	r a t e
+37	[らと]	r a t o
+37	[らな]	r a n a
+37	[らに]	r a n i
+37	[らぬ]	r a n u
+37	[らね]	r a n e
+37	[らの]	r a n o
+37	[らは]	r a w a
+37	[らひ]	r a h i
+37	[らふ]	r a f u
+37	[らへ]	r a e
+37	[らほ]	r a h o
+37	[らま]	r a m a
+37	[らみ]	r a m i
+37	[らめ]	r a m e
+37	[らも]	r a m o
+37	[らや]	r a y a
+37	[らゆ]	r a y u
+37	[らよ]	r a y o
+37	[らら]	r a r a
+37	[らり]	r a r i
+37	[らる]	r a r u
+37	[られ]	r a r e
+37	[らろ]	r a r o
+37	[らわ]	r a w a
+37	[らを]	r a w o
+37	[らん]	r a N
+37	[るあ]	r u a
+37	[るい]	r u i
+37	[るう]	r u u
+37	[るえ]	r u e
+37	[るお]	r u o
+37	[るか]	r u k a
+37	[るき]	r u k i
+37	[るく]	r u k u
+37	[るけ]	r u k e
+37	[るこ]	r u k o
+37	[るさ]	r u s a
+37	[るし]	r u sh i
+37	[るす]	r u s u
+37	[るせ]	r u s e
+37	[るた]	r u t a
+37	[るち]	r u ch i
+37	[るつ]	r u ts u
+37	[るて]	r u t e
+37	[ると]	r u t o
+37	[るな]	r u n a
+37	[るに]	r u n i
+37	[るぬ]	r u n u
+37	[るね]	r u n e
+37	[るの]	r u n o
+37	[るは]	r u w a
+37	[るひ]	r u h i
+37	[るふ]	r u f u
+37	[るへ]	r u e
+37	[るほ]	r u h o
+37	[るま]	r u m a
+37	[るみ]	r u m i
+37	[るめ]	r u m e
+37	[るも]	r u m o
+37	[るや]	r u y a
+37	[るゆ]	r u y u
+37	[るよ]	r u y o
+37	[るら]	r u r a
+37	[るり]	r u r i
+37	[るる]	r u r u
+37	[るれ]	r u r e
+37	[るろ]	r u r o
+37	[るわ]	r u w a
+37	[るを]	r u w o
+37	[るん]	r u N
+37	[ろあ]	r o a
+37	[ろい]	r o i
+37	[ろう]	r o:
+37	[ろえ]	r o e
+37	[ろお]	r o o
+37	[ろか]	r o k a
+37	[ろき]	r o k i
+37	[ろく]	r o k u
+37	[ろけ]	r o k e
+37	[ろこ]	r o k o
+37	[ろさ]	r o s a
+37	[ろし]	r o sh i
+37	[ろす]	r o s u
+37	[ろせ]	r o s e
+37	[ろた]	r o t a
+37	[ろち]	r o ch i
+37	[ろつ]	r o ts u
+37	[ろて]	r o t e
+37	[ろと]	r o t o
+37	[ろな]	r o n a
+37	[ろに]	r o n i
+37	[ろぬ]	r o n u
+37	[ろね]	r o n e
+37	[ろの]	r o n o
+37	[ろは]	r o w a
+37	[ろひ]	r o h i
+37	[ろふ]	r o f u
+37	[ろへ]	r o e
+37	[ろほ]	r o h o
+37	[ろま]	r o m a
+37	[ろみ]	r o m i
+37	[ろめ]	r o m e
+37	[ろも]	r o m o
+37	[ろや]	r o y a
+37	[ろゆ]	r o y u
+37	[ろよ]	r o y o
+37	[ろら]	r o r a
+37	[ろり]	r o r i
+37	[ろる]	r o r u
+37	[ろれ]	r o r e
+37	[ろろ]	r o r o
+37	[ろわ]	r o w a
+37	[ろを]	r o w o
+37	[ろん]	r o N
+37	[をあ]	w o a
+37	[をい]	w o i
+37	[をう]	w o u
+37	[をえ]	w o e
+37	[をお]	w o o
+37	[をか]	w o k a
+37	[をき]	w o k i
+37	[をく]	w o k u
+37	[をけ]	w o k e
+37	[をこ]	w o k o
+37	[をさ]	w o s a
+37	[をし]	w o sh i
+37	[をす]	w o s u
+37	[をせ]	w o s e
+37	[をた]	w o t a
+37	[をち]	w o ch i
+37	[をつ]	w o ts u
+37	[をて]	w o t e
+37	[をと]	w o t o
+37	[をな]	w o n a
+37	[をに]	w o n i
+37	[をぬ]	w o n u
+37	[をね]	w o n e
+37	[をの]	w o n o
+37	[をは]	w o w a
+37	[をひ]	w o h i
+37	[をふ]	w o f u
+37	[をへ]	w o e
+37	[をほ]	w o h o
+37	[をま]	w o m a
+37	[をみ]	w o m i
+37	[をめ]	w o m e
+37	[をも]	w o m o
+37	[をや]	w o y a
+37	[をゆ]	w o y u
+37	[をよ]	w o y o
+37	[をら]	w o r a
+37	[をり]	w o r i
+37	[をる]	w o r u
+37	[をれ]	w o r e
+37	[をろ]	w o r o
+37	[をわ]	w o w a
+37	[をを]	w o w o
+37	[をん]	w o N

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iRemocon>
+	<command word="ただいま" reply="no">
+		OpenJTalk.talk('おかえりなさい');
+		iRemocon.send(11);
+		iRemocon.send(14);
+		iRemocon.send(1);
+	</command>
+	<command word="テレビ(を)?(つけて|消して)" ir="1" reply="no">
+		var reply = '';
+		if (str.indexOf('つけて') != -1) {
+			reply = 'テレビをつけます';
+		} else {
+			reply = 'テレビを消します';
+		}
+		return reply;
+	</command>
+	<command word="テレビ(を)?切替" ir="2" />
+	<command word="テレビ(を)?次" ir="3" />
+	<command word="テレビ(を)?前" ir="4" />
+
+	<command word="電気(を)?つけて" ir="11" />
+	<command word="電気(を)?こだま" ir="12" />
+	<command word="電気(を)?消して" ir="13" />
+
+	<command word="モニタ(を)?つけて" ir="14" />
+	<command word="モニタ(を)?消して" ir="15" />
+
+	<command word="今何時" reply="no">
+		var date = new Date();
+		return date.getHours() + '時' + date.getMinutes() + '分です';
+	</command>
+	<command word="今日(は)?(いつ|何日)" reply="no">
+		var date = new Date();
+		return date.getMonth()+1 + '月' + date.getDate() + '日です';
+	</command>
+</iRemocon>
+

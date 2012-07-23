@@ -1,0 +1,4 @@
+-input mic
+-gram kaden
+-h model/phone_m/hmmdefs_monof_mix16_gid.binhmm
+

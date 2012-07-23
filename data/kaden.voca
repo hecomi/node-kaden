@@ -1,0 +1,1043 @@
+% NS_B
+<s>	silB
+% NS_E
+<s>	silE
+% NOISE
+<sp>	sp
+% WORD_0
+ただいま	t a d a i m a 
+% WORD_1
+テレビ	t e r e b i 
+% WORD_2_LOOP_0
+を	w o 
+% WORD_3_0
+つけて	ts u k e t e 
+% WORD_3_1
+消して	k e sh i t e 
+% WORD_4
+テレビ	t e r e b i 
+% WORD_5_LOOP_0
+を	w o 
+% WORD_6
+切替	k i r i k a e 
+% WORD_7
+テレビ	t e r e b i 
+% WORD_8_LOOP_0
+を	w o 
+% WORD_9
+次	ts u g i 
+% WORD_10
+テレビ	t e r e b i 
+% WORD_11_LOOP_0
+を	w o 
+% WORD_12
+前	m a e 
+% WORD_13
+電気	d e N k i 
+% WORD_14_LOOP_0
+を	w o 
+% WORD_15
+つけて	ts u k e t e 
+% WORD_16
+電気	d e N k i 
+% WORD_17_LOOP_0
+を	w o 
+% WORD_18
+こだま	k o d a m a 
+% WORD_19
+電気	d e N k i 
+% WORD_20_LOOP_0
+を	w o 
+% WORD_21
+消して	k e sh i t e 
+% WORD_22
+モニタ	m o n i t a 
+% WORD_23_LOOP_0
+を	w o 
+% WORD_24
+つけて	ts u k e t e 
+% WORD_25
+モニタ	m o n i t a 
+% WORD_26_LOOP_0
+を	w o 
+% WORD_27
+消して	k e sh i t e 
+% WORD_28
+今何時	i m a n a N j i 
+% WORD_29
+今日	ky o: 
+% WORD_30_LOOP_0
+は	w a 
+% WORD_31_0
+いつ	i ts u 
+% WORD_31_1
+何日	n a N n i ch i 
+% GOMI
+ああ	a: 
+あい	a i 
+あう	a u 
+あえ	a e 
+あお	a o 
+あか	a k a 
+あき	a k i 
+あく	a k u 
+あけ	a k e 
+あこ	a k o 
+あさ	a s a 
+あし	a sh i 
+あす	a s u 
+あせ	a s e 
+あた	a t a 
+あち	a ch i 
+あつ	a ts u 
+あて	a t e 
+あと	a t o 
+あな	a n a 
+あに	a n i 
+あぬ	a n u 
+あね	a n e 
+あの	a n o 
+あは	a w a 
+あひ	a h i 
+あふ	a f u 
+あへ	a e 
+あほ	a h o 
+あま	a m a 
+あみ	a m i 
+あめ	a m e 
+あも	a m o 
+あや	a y a 
+あゆ	a y u 
+あよ	a y o 
+あら	a r a 
+あり	a r i 
+ある	a r u 
+あれ	a r e 
+あろ	a r o 
+あわ	a w a 
+あを	a w o 
+あん	a N 
+うあ	u a 
+うい	u i 
+うう	u: 
+うえ	u e 
+うお	u o 
+うか	u k a 
+うき	u k i 
+うく	u k u 
+うけ	u k e 
+うこ	u k o 
+うさ	u s a 
+うし	u sh i 
+うす	u s u 
+うせ	u s e 
+うた	u t a 
+うち	u ch i 
+うつ	u ts u 
+うて	u t e 
+うと	u t o 
+うな	u n a 
+うに	u n i 
+うぬ	u n u 
+うね	u n e 
+うの	u n o 
+うは	u w a 
+うひ	u h i 
+うふ	u f u 
+うへ	u e 
+うほ	u h o 
+うま	u m a 
+うみ	u m i 
+うめ	u m e 
+うも	u m o 
+うや	u y a 
+うゆ	u y u 
+うよ	u y o 
+うら	u r a 
+うり	u r i 
+うる	u r u 
+うれ	u r e 
+うろ	u r o 
+うわ	u w a 
+うを	u w o 
+うん	u N 
+おあ	o a 
+おい	o i 
+おう	o u 
+おえ	o e 
+おお	o: 
+おか	o k a 
+おき	o k i 
+おく	o k u 
+おけ	o k e 
+おこ	o k o 
+おさ	o s a 
+おし	o sh i 
+おす	o s u 
+おせ	o s e 
+おた	o t a 
+おち	o ch i 
+おつ	o ts u 
+おて	o t e 
+おと	o t o 
+おな	o n a 
+おに	o n i 
+おぬ	o n u 
+おね	o n e 
+おの	o n o 
+おは	o w a 
+おひ	o h i 
+おふ	o f u 
+おへ	o e 
+おほ	o h o 
+おま	o m a 
+おみ	o m i 
+おめ	o m e 
+おも	o m o 
+おや	o y a 
+おゆ	o y u 
+およ	o y o 
+おら	o r a 
+おり	o r i 
+おる	o r u 
+おれ	o r e 
+おろ	o r o 
+おわ	o w a 
+おを	o w o 
+おん	o N 
+きあ	k i a 
+きい	k i i 
+きう	k i u 
+きえ	k i e 
+きお	k i o 
+きか	k i k a 
+きき	k i k i 
+きく	k i k u 
+きけ	k i k e 
+きこ	k i k o 
+きさ	k i s a 
+きし	k i sh i 
+きす	k i s u 
+きせ	k i s e 
+きた	k i t a 
+きち	k i ch i 
+きつ	k i ts u 
+きて	k i t e 
+きと	k i t o 
+きな	k i n a 
+きに	k i n i 
+きぬ	k i n u 
+きね	k i n e 
+きの	k i n o 
+きは	k i w a 
+きひ	k i h i 
+きふ	k i f u 
+きへ	k i e 
+きほ	k i h o 
+きま	k i m a 
+きみ	k i m i 
+きめ	k i m e 
+きも	k i m o 
+きや	k i y a 
+きゆ	k i y u 
+きよ	k i y o 
+きら	k i r a 
+きり	k i r i 
+きる	k i r u 
+きれ	k i r e 
+きろ	k i r o 
+きわ	k i w a 
+きを	k i w o 
+きん	k i N 
+けあ	k e a 
+けい	k e i 
+けう	k e u 
+けえ	k e e 
+けお	k e o 
+けか	k e k a 
+けき	k e k i 
+けく	k e k u 
+けけ	k e k e 
+けこ	k e k o 
+けさ	k e s a 
+けし	k e sh i 
+けす	k e s u 
+けせ	k e s e 
+けた	k e t a 
+けち	k e ch i 
+けつ	k e ts u 
+けて	k e t e 
+けと	k e t o 
+けな	k e n a 
+けに	k e n i 
+けぬ	k e n u 
+けね	k e n e 
+けの	k e n o 
+けは	k e w a 
+けひ	k e h i 
+けふ	k e f u 
+けへ	k e e 
+けほ	k e h o 
+けま	k e m a 
+けみ	k e m i 
+けめ	k e m e 
+けも	k e m o 
+けや	k e y a 
+けゆ	k e y u 
+けよ	k e y o 
+けら	k e r a 
+けり	k e r i 
+ける	k e r u 
+けれ	k e r e 
+けろ	k e r o 
+けわ	k e w a 
+けを	k e w o 
+けん	k e N 
+さあ	s a: 
+さい	s a i 
+さう	s a u 
+さえ	s a e 
+さお	s a o 
+さか	s a k a 
+さき	s a k i 
+さく	s a k u 
+さけ	s a k e 
+さこ	s a k o 
+ささ	s a s a 
+さし	s a sh i 
+さす	s a s u 
+させ	s a s e 
+さた	s a t a 
+さち	s a ch i 
+さつ	s a ts u 
+さて	s a t e 
+さと	s a t o 
+さな	s a n a 
+さに	s a n i 
+さぬ	s a n u 
+さね	s a n e 
+さの	s a n o 
+さは	s a w a 
+さひ	s a h i 
+さふ	s a f u 
+さへ	s a e 
+さほ	s a h o 
+さま	s a m a 
+さみ	s a m i 
+さめ	s a m e 
+さも	s a m o 
+さや	s a y a 
+さゆ	s a y u 
+さよ	s a y o 
+さら	s a r a 
+さり	s a r i 
+さる	s a r u 
+され	s a r e 
+さろ	s a r o 
+さわ	s a w a 
+さを	s a w o 
+さん	s a N 
+すあ	s u a 
+すい	s u i 
+すう	s u: 
+すえ	s u e 
+すお	s u o 
+すか	s u k a 
+すき	s u k i 
+すく	s u k u 
+すけ	s u k e 
+すこ	s u k o 
+すさ	s u s a 
+すし	s u sh i 
+すす	s u s u 
+すせ	s u s e 
+すた	s u t a 
+すち	s u ch i 
+すつ	s u ts u 
+すて	s u t e 
+すと	s u t o 
+すな	s u n a 
+すに	s u n i 
+すぬ	s u n u 
+すね	s u n e 
+すの	s u n o 
+すは	s u w a 
+すひ	s u h i 
+すふ	s u f u 
+すへ	s u e 
+すほ	s u h o 
+すま	s u m a 
+すみ	s u m i 
+すめ	s u m e 
+すも	s u m o 
+すや	s u y a 
+すゆ	s u y u 
+すよ	s u y o 
+すら	s u r a 
+すり	s u r i 
+する	s u r u 
+すれ	s u r e 
+すろ	s u r o 
+すわ	s u w a 
+すを	s u w o 
+すん	s u N 
+たあ	t a a 
+たい	t a i 
+たう	t a u 
+たえ	t a e 
+たお	t a o 
+たか	t a k a 
+たき	t a k i 
+たく	t a k u 
+たけ	t a k e 
+たこ	t a k o 
+たさ	t a s a 
+たし	t a sh i 
+たす	t a s u 
+たせ	t a s e 
+たた	t a t a 
+たち	t a ch i 
+たつ	t a ts u 
+たて	t a t e 
+たと	t a t o 
+たな	t a n a 
+たに	t a n i 
+たぬ	t a n u 
+たね	t a n e 
+たの	t a n o 
+たは	t a w a 
+たひ	t a h i 
+たふ	t a f u 
+たへ	t a e 
+たほ	t a h o 
+たま	t a m a 
+たみ	t a m i 
+ため	t a m e 
+たも	t a m o 
+たや	t a y a 
+たゆ	t a y u 
+たよ	t a y o 
+たら	t a r a 
+たり	t a r i 
+たる	t a r u 
+たれ	t a r e 
+たろ	t a r o 
+たわ	t a w a 
+たを	t a w o 
+たん	t a N 
+つあ	ts u a 
+つい	ts u i 
+つう	ts u: 
+つえ	ts u e 
+つお	ts u o 
+つか	ts u k a 
+つき	ts u k i 
+つく	ts u k u 
+つけ	ts u k e 
+つこ	ts u k o 
+つさ	ts u s a 
+つし	ts u sh i 
+つす	ts u s u 
+つせ	ts u s e 
+つた	ts u t a 
+つち	ts u ch i 
+つつ	ts u ts u 
+つて	ts u t e 
+つと	ts u t o 
+つな	ts u n a 
+つに	ts u n i 
+つぬ	ts u n u 
+つね	ts u n e 
+つの	ts u n o 
+つは	ts u w a 
+つひ	ts u h i 
+つふ	ts u f u 
+つへ	ts u e 
+つほ	ts u h o 
+つま	ts u m a 
+つみ	ts u m i 
+つめ	ts u m e 
+つも	ts u m o 
+つや	ts u y a 
+つゆ	ts u y u 
+つよ	ts u y o 
+つら	ts u r a 
+つり	ts u r i 
+つる	ts u r u 
+つれ	ts u r e 
+つろ	ts u r o 
+つわ	ts u w a 
+つを	ts u w o 
+つん	ts u N 
+とあ	t o a 
+とい	t o i 
+とう	t o: 
+とえ	t o e 
+とお	t o: 
+とか	t o k a 
+とき	t o k i 
+とく	t o k u 
+とけ	t o k e 
+とこ	t o k o 
+とさ	t o s a 
+とし	t o sh i 
+とす	t o s u 
+とせ	t o s e 
+とた	t o t a 
+とち	t o ch i 
+とつ	t o ts u 
+とて	t o t e 
+とと	t o t o 
+とな	t o n a 
+とに	t o n i 
+とぬ	t o n u 
+とね	t o n e 
+との	t o n o 
+とは	t o w a 
+とひ	t o h i 
+とふ	t o f u 
+とへ	t o e 
+とほ	t o h o 
+とま	t o m a 
+とみ	t o m i 
+とめ	t o m e 
+とも	t o m o 
+とや	t o y a 
+とゆ	t o y u 
+とよ	t o y o 
+とら	t o r a 
+とり	t o r i 
+とる	t o r u 
+とれ	t o r e 
+とろ	t o r o 
+とわ	t o w a 
+とを	t o w o 
+とん	t o N 
+にあ	n i a 
+にい	n i i 
+にう	n i u 
+にえ	n i e 
+にお	n i o 
+にか	n i k a 
+にき	n i k i 
+にく	n i k u 
+にけ	n i k e 
+にこ	n i k o 
+にさ	n i s a 
+にし	n i sh i 
+にす	n i s u 
+にせ	n i s e 
+にた	n i t a 
+にち	n i ch i 
+につ	n i ts u 
+にて	n i t e 
+にと	n i t o 
+にな	n i n a 
+にに	n i n i 
+にぬ	n i n u 
+にね	n i n e 
+にの	n i n o 
+には	n i w a 
+にひ	n i h i 
+にふ	n i f u 
+にへ	n i e 
+にほ	n i h o 
+にま	n i m a 
+にみ	n i m i 
+にめ	n i m e 
+にも	n i m o 
+にや	n i y a 
+にゆ	n i y u 
+によ	n i y o 
+にら	n i r a 
+にり	n i r i 
+にる	n i r u 
+にれ	n i r e 
+にろ	n i r o 
+にわ	n i w a 
+にを	n i w o 
+にん	n i N 
+ねあ	n e a 
+ねい	n e i 
+ねう	n e u 
+ねえ	n e: 
+ねお	n e o 
+ねか	n e k a 
+ねき	n e k i 
+ねく	n e k u 
+ねけ	n e k e 
+ねこ	n e k o 
+ねさ	n e s a 
+ねし	n e sh i 
+ねす	n e s u 
+ねせ	n e s e 
+ねた	n e t a 
+ねち	n e ch i 
+ねつ	n e ts u 
+ねて	n e t e 
+ねと	n e t o 
+ねな	n e n a 
+ねに	n e n i 
+ねぬ	n e n u 
+ねね	n e n e 
+ねの	n e n o 
+ねは	n e w a 
+ねひ	n e h i 
+ねふ	n e f u 
+ねへ	n e e 
+ねほ	n e h o 
+ねま	n e m a 
+ねみ	n e m i 
+ねめ	n e m e 
+ねも	n e m o 
+ねや	n e y a 
+ねゆ	n e y u 
+ねよ	n e y o 
+ねら	n e r a 
+ねり	n e r i 
+ねる	n e r u 
+ねれ	n e r e 
+ねろ	n e r o 
+ねわ	n e w a 
+ねを	n e w o 
+ねん	n e N 
+はあ	h a: 
+はい	h a i 
+はう	h a u 
+はえ	w a e 
+はお	h a o 
+はか	h a k a 
+はき	h a k i 
+はく	h a k u 
+はけ	h a k e 
+はこ	h a k o 
+はさ	h a s a 
+はし	h a sh i 
+はす	h a s u 
+はせ	h a s e 
+はた	h a t a 
+はち	w a ch i 
+はつ	h a ts u 
+はて	h a t e 
+はと	h a t o 
+はな	h a n a 
+はに	h a n i 
+はぬ	w a n u 
+はね	w a n e 
+はの	w a n o 
+はは	w a w a 
+はひ	w a h i 
+はふ	w a f u 
+はへ	h a e 
+はほ	w a h o 
+はま	h a m a 
+はみ	h a m i 
+はめ	h a m e 
+はも	w a m o 
+はや	h a y a 
+はゆ	w a y u 
+はよ	w a y o 
+はら	h a r a 
+はり	h a r i 
+はる	h a r u 
+はれ	h a r e 
+はろ	h a r o 
+はわ	w a w a 
+はを	h a w o 
+はん	h a N 
+ふあ	f u a 
+ふい	f u i 
+ふう	f u: 
+ふえ	f u e 
+ふお	f u o 
+ふか	f u k a 
+ふき	f u k i 
+ふく	f u k u 
+ふけ	f u k e 
+ふこ	f u k o 
+ふさ	f u s a 
+ふし	f u sh i 
+ふす	f u s u 
+ふせ	f u s e 
+ふた	f u t a 
+ふち	f u ch i 
+ふつ	f u ts u 
+ふて	f u t e 
+ふと	f u t o 
+ふな	f u n a 
+ふに	f u n i 
+ふぬ	f u n u 
+ふね	f u n e 
+ふの	f u n o 
+ふは	f u w a 
+ふひ	f u h i 
+ふふ	f u f u 
+ふへ	f u e 
+ふほ	f u h o 
+ふま	f u m a 
+ふみ	f u m i 
+ふめ	f u m e 
+ふも	f u m o 
+ふや	f u y a 
+ふゆ	f u y u 
+ふよ	f u y o 
+ふら	f u r a 
+ふり	f u r i 
+ふる	f u r u 
+ふれ	f u r e 
+ふろ	f u r o 
+ふわ	f u w a 
+ふを	f u w o 
+ふん	f u N 
+ほあ	h o a 
+ほい	h o i 
+ほう	h o: 
+ほえ	h o e 
+ほお	h o: 
+ほか	h o k a 
+ほき	h o k i 
+ほく	h o k u 
+ほけ	h o k e 
+ほこ	h o k o 
+ほさ	h o s a 
+ほし	h o sh i 
+ほす	h o s u 
+ほせ	h o s e 
+ほた	h o t a 
+ほち	h o ch i 
+ほつ	h o ts u 
+ほて	h o t e 
+ほと	h o t o 
+ほな	h o n a 
+ほに	h o n i 
+ほぬ	h o n u 
+ほね	h o n e 
+ほの	h o n o 
+ほは	h o w a 
+ほひ	h o h i 
+ほふ	h o f u 
+ほへ	h o e 
+ほほ	h o h o 
+ほま	h o m a 
+ほみ	h o m i 
+ほめ	h o m e 
+ほも	h o m o 
+ほや	h o y a 
+ほゆ	h o y u 
+ほよ	h o y o 
+ほら	h o r a 
+ほり	h o r i 
+ほる	h o r u 
+ほれ	h o r e 
+ほろ	h o r o 
+ほわ	h o w a 
+ほを	h o w o 
+ほん	h o N 
+みあ	m i a 
+みい	m i i 
+みう	m i u 
+みえ	m i e 
+みお	m i o 
+みか	m i k a 
+みき	m i k i 
+みく	m i k u 
+みけ	m i k e 
+みこ	m i k o 
+みさ	m i s a 
+みし	m i sh i 
+みす	m i s u 
+みせ	m i s e 
+みた	m i t a 
+みち	m i ch i 
+みつ	m i ts u 
+みて	m i t e 
+みと	m i t o 
+みな	m i n a 
+みに	m i n i 
+みぬ	m i n u 
+みね	m i n e 
+みの	m i n o 
+みは	m i w a 
+みひ	m i h i 
+みふ	m i f u 
+みへ	m i e 
+みほ	m i h o 
+みま	m i m a 
+みみ	m i m i 
+みめ	m i m e 
+みも	m i m o 
+みや	m i y a 
+みゆ	m i y u 
+みよ	m i y o 
+みら	m i r a 
+みり	m i r i 
+みる	m i r u 
+みれ	m i r e 
+みろ	m i r o 
+みわ	m i w a 
+みを	m i w o 
+みん	m i N 
+もあ	m o a 
+もい	m o i 
+もう	m o: 
+もえ	m o e 
+もお	m o o 
+もか	m o k a 
+もき	m o k i 
+もく	m o k u 
+もけ	m o k e 
+もこ	m o k o 
+もさ	m o s a 
+もし	m o sh i 
+もす	m o s u 
+もせ	m o s e 
+もた	m o t a 
+もち	m o ch i 
+もつ	m o ts u 
+もて	m o t e 
+もと	m o t o 
+もな	m o n a 
+もに	m o n i 
+もぬ	m o n u 
+もね	m o n e 
+もの	m o n o 
+もは	m o w a 
+もひ	m o h i 
+もふ	m o f u 
+もへ	m o e 
+もほ	m o h o 
+もま	m o m a 
+もみ	m o m i 
+もめ	m o m e 
+もも	m o m o 
+もや	m o y a 
+もゆ	m o y u 
+もよ	m o y o 
+もら	m o r a 
+もり	m o r i 
+もる	m o r u 
+もれ	m o r e 
+もろ	m o r o 
+もわ	m o w a 
+もを	m o w o 
+もん	m o N 
+ゆあ	y u a 
+ゆい	y u i 
+ゆう	y u: 
+ゆえ	y u e 
+ゆお	y u o 
+ゆか	y u k a 
+ゆき	y u k i 
+ゆく	y u k u 
+ゆけ	y u k e 
+ゆこ	y u k o 
+ゆさ	y u s a 
+ゆし	y u sh i 
+ゆす	y u s u 
+ゆせ	y u s e 
+ゆた	y u t a 
+ゆち	y u ch i 
+ゆつ	y u ts u 
+ゆて	y u t e 
+ゆと	y u t o 
+ゆな	y u n a 
+ゆに	y u n i 
+ゆぬ	y u n u 
+ゆね	y u n e 
+ゆの	y u n o 
+ゆは	y u w a 
+ゆひ	y u h i 
+ゆふ	y u f u 
+ゆへ	y u e 
+ゆほ	y u h o 
+ゆま	y u m a 
+ゆみ	y u m i 
+ゆめ	y u m e 
+ゆも	y u m o 
+ゆや	y u y a 
+ゆゆ	y u y u 
+ゆよ	y u y o 
+ゆら	y u r a 
+ゆり	y u r i 
+ゆる	y u r u 
+ゆれ	y u r e 
+ゆろ	y u r o 
+ゆわ	y u w a 
+ゆを	y u w o 
+ゆん	y u N 
+らあ	r a a 
+らい	r a i 
+らう	r a u 
+らえ	r a e 
+らお	r a o 
+らか	r a k a 
+らき	r a k i 
+らく	r a k u 
+らけ	r a k e 
+らこ	r a k o 
+らさ	r a s a 
+らし	r a sh i 
+らす	r a s u 
+らせ	r a s e 
+らた	r a t a 
+らち	r a ch i 
+らつ	r a ts u 
+らて	r a t e 
+らと	r a t o 
+らな	r a n a 
+らに	r a n i 
+らぬ	r a n u 
+らね	r a n e 
+らの	r a n o 
+らは	r a w a 
+らひ	r a h i 
+らふ	r a f u 
+らへ	r a e 
+らほ	r a h o 
+らま	r a m a 
+らみ	r a m i 
+らめ	r a m e 
+らも	r a m o 
+らや	r a y a 
+らゆ	r a y u 
+らよ	r a y o 
+らら	r a r a 
+らり	r a r i 
+らる	r a r u 
+られ	r a r e 
+らろ	r a r o 
+らわ	r a w a 
+らを	r a w o 
+らん	r a N 
+るあ	r u a 
+るい	r u i 
+るう	r u u 
+るえ	r u e 
+るお	r u o 
+るか	r u k a 
+るき	r u k i 
+るく	r u k u 
+るけ	r u k e 
+るこ	r u k o 
+るさ	r u s a 
+るし	r u sh i 
+るす	r u s u 
+るせ	r u s e 
+るた	r u t a 
+るち	r u ch i 
+るつ	r u ts u 
+るて	r u t e 
+ると	r u t o 
+るな	r u n a 
+るに	r u n i 
+るぬ	r u n u 
+るね	r u n e 
+るの	r u n o 
+るは	r u w a 
+るひ	r u h i 
+るふ	r u f u 
+るへ	r u e 
+るほ	r u h o 
+るま	r u m a 
+るみ	r u m i 
+るめ	r u m e 
+るも	r u m o 
+るや	r u y a 
+るゆ	r u y u 
+るよ	r u y o 
+るら	r u r a 
+るり	r u r i 
+るる	r u r u 
+るれ	r u r e 
+るろ	r u r o 
+るわ	r u w a 
+るを	r u w o 
+るん	r u N 
+ろあ	r o a 
+ろい	r o i 
+ろう	r o: 
+ろえ	r o e 
+ろお	r o o 
+ろか	r o k a 
+ろき	r o k i 
+ろく	r o k u 
+ろけ	r o k e 
+ろこ	r o k o 
+ろさ	r o s a 
+ろし	r o sh i 
+ろす	r o s u 
+ろせ	r o s e 
+ろた	r o t a 
+ろち	r o ch i 
+ろつ	r o ts u 
+ろて	r o t e 
+ろと	r o t o 
+ろな	r o n a 
+ろに	r o n i 
+ろぬ	r o n u 
+ろね	r o n e 
+ろの	r o n o 
+ろは	r o w a 
+ろひ	r o h i 
+ろふ	r o f u 
+ろへ	r o e 
+ろほ	r o h o 
+ろま	r o m a 
+ろみ	r o m i 
+ろめ	r o m e 
+ろも	r o m o 
+ろや	r o y a 
+ろゆ	r o y u 
+ろよ	r o y o 
+ろら	r o r a 
+ろり	r o r i 
+ろる	r o r u 
+ろれ	r o r e 
+ろろ	r o r o 
+ろわ	r o w a 
+ろを	r o w o 
+ろん	r o N 
+をあ	w o a 
+をい	w o i 
+をう	w o u 
+をえ	w o e 
+をお	w o o 
+をか	w o k a 
+をき	w o k i 
+をく	w o k u 
+をけ	w o k e 
+をこ	w o k o 
+をさ	w o s a 
+をし	w o sh i 
+をす	w o s u 
+をせ	w o s e 
+をた	w o t a 
+をち	w o ch i 
+をつ	w o ts u 
+をて	w o t e 
+をと	w o t o 
+をな	w o n a 
+をに	w o n i 
+をぬ	w o n u 
+をね	w o n e 
+をの	w o n o 
+をは	w o w a 
+をひ	w o h i 
+をふ	w o f u 
+をへ	w o e 
+をほ	w o h o 
+をま	w o m a 
+をみ	w o m i 
+をめ	w o m e 
+をも	w o m o 
+をや	w o y a 
+をゆ	w o y u 
+をよ	w o y o 
+をら	w o r a 
+をり	w o r i 
+をる	w o r u 
+をれ	w o r e 
+をろ	w o r o 
+をわ	w o w a 
+をを	w o w o 
+をん	w o N 
